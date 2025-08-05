@@ -9,53 +9,6 @@ This repository contains your **TDS Content**, **TDS Project May‑2025** module
 ```
 
 .
-├── TDS Content
-│   ├── GA 1/
-│   │   ├── Question 10/11/12/14/
-│   │   │   └── python.py
-│   │   ├── Question 3/
-│   │   │   └── uv.txt
-│   │   ├── Question 7/
-│   │   │   └── hidden.txt
-│   │   └── Question 8/
-│   │       └── python.py
-│   │   └── README.md
-│   ├── GA 2/
-│   │   ├── Question 1/
-│   │   │   └── answer.txt
-│   │   ├── Question 10/
-│   │   │   ├── Readme‑for‑steps.md
-│   │   │   ├── main.py
-│   │   │   ├── q‑fastapi.csv
-│   │   │   └── requirements.txt
-│   │   ├── Question 2/
-│   │   │   ├── image.webp
-│   │   │   └── steps.md
-│   │   ├── Questions 3‑9/
-│   │   │   └── steps.md per question
-│   │   └── Question 6/
-│   │       ├── README.md
-│   │       ├── api/index.py
-│   │       ├── api/vercel‑data.json
-│   │       ├── requirements.txt
-│   │       └── vercel.json
-│   ├── GA 3/
-│   │   ├── Question 1‑14 with .md, .py, .js, .yaml as required
-│   │   └── README.md
-│   ├── GA 4/ … GA 7/
-│   ├── LICENSE.txt
-│   ├── Pre‑requisites/linux.md
-│   ├── Project 1 M25/
-│   │   ├── Dockerfile
-│   │   ├── README.md
-│   │   ├── app/embed.py
-│   │   ├── app/index.py
-│   │   ├── app/rag.py
-│   │   ├── automation\_script\_md\_to\_json\_format.py
-│   │   ├── promptfoo.yaml
-│   │   └── requirements.txt
-│   ├── README.md
-│   └── question.sh
 ├── TDS Project May‑2025/
 │   ├── Md to Metadata covertor/
 │   │   ├── automation\_script\_md\_to\_json\_format.py
@@ -92,8 +45,6 @@ This repository contains your **TDS Content**, **TDS Project May‑2025** module
 
 ## 🧠 Overview & Purpose
 
-- **TDS Content/**: Contains exercise responses (GA 1–GA 4), code demonstrations, and markdown-generated outputs from each question, you can find this in repo named as : TDS Assignments all Weeks
-- **Project 1 M25/**: A containerized version of your RAG pipeline with code, embeddings, and data setup for Project 1.
 - **TDS Project May‑2025/**: Core modules for content conversion, embedding generation, and extraction tooling.
   - **Md to Metadata convertor/**: Python script and content files to transform markdown into structured JSON.
   - **Project 1 (Not Ideal for vercel)/**: Lightweight version of the RAG pipeline—optimized for local testing.
