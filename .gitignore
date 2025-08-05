@@ -1,0 +1,93 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Python virtual environment and package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# dotenv and secret config files
+.env
+.env.*
+
+# Vercel deployment files (only if not needed in repo)
+.vercel/
+
+# Node-related (just in case)
+node_modules/
+
+# Data & model artifacts
+*.npy
+*.faiss
+*.pkl
+*.csv
+*.db
+*.sqlite
+*.json
+*.webp
+
+# Ignore compiled JavaScript
+*.js.map
+
+# Ignore Markdown-to-JSON automation output
+tds_content.json
+
+# Ignore PDF and image exports
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.bmp
+
+# Ignore backup and archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore test and dump files
+test_*.py
+dump.*
+
+
+# Ignore all .git folders
+.git/
+
+# Ignore Project 1 Working directory
+Project 1 Working/
