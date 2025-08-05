@@ -92,7 +92,7 @@ This repository contains your **TDS Content**, **TDS Project May‑2025** module
 
 ## 🧠 Overview & Purpose
 
-- **TDS Content/**: Contains exercise responses (GA 1–GA 7), code demonstrations, and markdown-generated outputs from each question.
+- **TDS Content/**: Contains exercise responses (GA 1–GA 4), code demonstrations, and markdown-generated outputs from each question, you can find this in repo named as : TDS Assignments all Weeks
 - **Project 1 M25/**: A containerized version of your RAG pipeline with code, embeddings, and data setup for Project 1.
 - **TDS Project May‑2025/**: Core modules for content conversion, embedding generation, and extraction tooling.
   - **Md to Metadata convertor/**: Python script and content files to transform markdown into structured JSON.
